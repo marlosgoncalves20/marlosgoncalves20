@@ -1,10 +1,10 @@
-# Olá! Eu Sou Marlos Gonçalves 🤓
+# Olá! Eu Sou Marlos Gonçalves 🖥️🤓
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlosgocalves97/?theme=dark)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/srgonalves97)
 
-![Marlos Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlos&show_icons=true&theme=dark)
-
+![ Marlos Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=marlosgoncalves20&show_icons=true&theme=dark)
+ 
  Liguagem de Programação que eu estudo no meu dia a dia!
 <div style="display: inline_block"><br/>
   <img align= "left" alt= "html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
